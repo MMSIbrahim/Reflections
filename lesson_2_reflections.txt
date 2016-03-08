@@ -1,0 +1,8 @@
+Q:What happens when you initialize a repository? Why do you need to do it?
+A:Really trivial question, when you initialize a repository git transforms a folder(a directory) into a repository usable by git however no commits are made, OFC YOU NEED IT TO GAIN GIT'S FREAKING BENEFITS OF VERSION CONTROL WHY THE STUPID QUESTION HUH?
+//
+//
+Q:How is the staging area different from the working directory and the repository? What value do you think it offers?
+A:FUCKING STAGED MAN, no but seriously ughh i guess it's some kind of locale that stores ur files before overwritting what is in the repository.
+//
+//

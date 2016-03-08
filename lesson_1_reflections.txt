@@ -1,0 +1,28 @@
+Not much to reflect on personally.
+yay
+Hello!!
+///
+///
+Q:How can Version control be useful?
+A:Older versions would very much be useful in controling ur data and making sur enothing gets lost.
+///
+///
+Q:What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+A: Pro:HUMAN CONTROL IS THE ULTIMATE PRO
+Cons:Forgetfulness is obviously a factor.
+///
+///
+Q:Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+A: It is amazing problem is though, u waste alot of memory if you incorrectly use it.
+///
+///
+Q:How can you use the commands git log and git diff to view the history of files?
+A: in many ways u can fix code errors and typos and accidental button presses.
+///
+///
+Q:How might using version control make you more confident to make changes that could break something?
+A:Trivial question, I have the ability to revert any change done at any moment aslong as i commit properly.subl
+///
+///
+Q:Now that you have your workspace set up, what do you want to try using Git for?
+A:My grad project.
