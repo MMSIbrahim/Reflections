@@ -9,3 +9,9 @@ A:FUCKING STAGED MAN, no but seriously ughh i guess it's some kind of locale tha
 EDIT EDIT FOR LESSON2
 //
 //
+Q:How can you use the staging area to make sure you have one commit per logical change?
+A:by using git diff and git diff --Staged you can see changes per files and only update 1 file at a time.
+//
+//
+Q:What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A:Multiple versions i guess different tweaks of the same app?
