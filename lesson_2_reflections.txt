@@ -6,3 +6,6 @@ Q:How is the staging area different from the working directory and the repositor
 A:FUCKING STAGED MAN, no but seriously ughh i guess it's some kind of locale that stores ur files before overwritting what is in the repository.
 //
 //
+EDIT EDIT FOR LESSON2
+//
+//
