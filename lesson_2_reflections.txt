@@ -15,3 +15,7 @@ A:by using git diff and git diff --Staged you can see changes per files and only
 //
 Q:What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A:Multiple versions i guess different tweaks of the same app?
+//
+//
+Q:How do the diagrams help you visualize the branch structure?
+A:As an engineer i use diagrams to help others visualize what is in my head and what makes sense to me, diagrams can be applied on anything with that logic.
