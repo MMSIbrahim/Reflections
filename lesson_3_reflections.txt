@@ -2,3 +2,5 @@ Q:When would you want to use a remote repository rather than keeping all your wo
 A:When i am on my phone probably or on some device where i can't directly access Git or my local repositories.
 //
 //
+Q:Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+A:Cause it could screw my work.
