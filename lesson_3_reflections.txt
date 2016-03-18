@@ -1,0 +1,4 @@
+Q:When would you want to use a remote repository rather than keeping all your work local?
+A:When i am on my phone probably or on some device where i can't directly access Git or my local repositories.
+//
+//
