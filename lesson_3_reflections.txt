@@ -16,3 +16,7 @@ A:OMG THESE TRIVIAL QUESTIONS, to stay in sync with other collaborators.
 //
 Q:How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A:Subversion Mercurial whatever lots of fish in the sea.
+//
+//
+Q:When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A:Anytime i'm collaborating with someone while making major changes.
