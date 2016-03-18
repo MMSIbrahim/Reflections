@@ -19,3 +19,11 @@ A:Multiple versions i guess different tweaks of the same app?
 //
 Q:How do the diagrams help you visualize the branch structure?
 A:As an engineer i use diagrams to help others visualize what is in my head and what makes sense to me, diagrams can be applied on anything with that logic.
+//
+//
+Q:What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A:WHY NOT BOTH?, because it is like human reproduction.
+//
+//
+Q:What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A:pros: does the donkey work for you, Cons: as u explained mini conflicts.
