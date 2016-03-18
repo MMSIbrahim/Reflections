@@ -4,3 +4,9 @@ A:When i am on my phone probably or on some device where i can't directly access
 //
 Q:Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A:Cause it could screw my work.
+//
+//
+Q:Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A:Forks are copies of repositories on github, clones are local copies of repositories. Branches are commits split from the master branch.
+//
+//
